@@ -1,0 +1,4 @@
+1. Playwright navigates to the URL and stay active so script can interact with the page
+2. Website only show a few meetings at a time; while loop is used to scroll through until finished
+3. Once the entire list is visible, script scans table, looking at every table row and table cells 0, 1, and every ,a. tab to get the URL
+4. Formats data to print to xml file

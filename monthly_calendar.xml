@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Bastrop Full Calendar - Detailed</title>
+        <link>https://bastrop-tx.municodemeetings.com/calendar/month</link>
+        <description>Meetings with Dates.</description>
+        <docs>http://www.rssboard.org/rss-specification</docs>
+        <generator>python-feedgen</generator>
+        <lastBuildDate>Wed, 25 Mar 2026 20:13:50 +0000</lastBuildDate>
+        <item>
+            <title>2026-03-24 | 6:30pm: Regular City Council Meeting</title>
+            <link>https://bastrop-tx.municodemeetings.com/bc-citycouncil/page/regular-city-council-meeting-61</link>
+            <description>Full Schedule: 6:30pm</description>
+            <guid isPermaLink="false">https://bastrop-tx.municodemeetings.com/bc-citycouncil/page/regular-city-council-meeting-61</guid>
+        </item>
+        <item>
+            <title>2026-03-23 | 5:00pm: Bastrop Economic Development Corporation</title>
+            <link>https://bastrop-tx.municodemeetings.com/bc-bedc/page/bastrop-economic-development-corporation-24</link>
+            <description>Full Schedule: 5:00pm</description>
+            <guid isPermaLink="false">https://bastrop-tx.municodemeetings.com/bc-bedc/page/bastrop-economic-development-corporation-24</guid>
+        </item>
+        <item>
+            <title>2026-03-16 | 6:00pm: Public Library Board</title>
+            <link>https://bastrop-tx.municodemeetings.com/bc-plb/page/public-library-board-38</link>
+            <description>Full Schedule: 6:00pm</description>
+            <guid isPermaLink="false">https://bastrop-tx.municodemeetings.com/bc-plb/page/public-library-board-38</guid>
+        </item>
+        <item>
+            <title>2026-03-12 | 5:30pm: Bridging Bastrop Board</title>
+            <link>https://bastrop-tx.municodemeetings.com/bridging-bastrop/page/bridging-bastrop-board-12</link>
+            <description>Full Schedule: 5:30pm</description>
+            <guid isPermaLink="false">https://bastrop-tx.municodemeetings.com/bridging-bastrop/page/bridging-bastrop-board-12</guid>
+        </item>
+        <item>
+            <title>2026-03-11 | 6:00pm: Special Main Street Advisory Board Meeting</title>
+            <link>https://bastrop-tx.municodemeetings.com/bc-msab/page/special-main-street-advisory-board-meeting-0</link>
+            <description>Full Schedule: 6:00pm</description>
+            <guid isPermaLink="false">https://bastrop-tx.municodemeetings.com/bc-msab/page/special-main-street-advisory-board-meeting-0</guid>
+        </item>
+        <item>
+            <title>2026-03-10 | 6:30pm: Regular City Council Meeting</title>
+            <link>https://bastrop-tx.municodemeetings.com/bc-citycouncil/page/regular-city-council-meeting-60</link>
+            <description>Full Schedule: 6:30pm</description>
+            <guid isPermaLink="false">https://bastrop-tx.municodemeetings.com/bc-citycouncil/page/regular-city-council-meeting-60</guid>
+        </item>
+        <item>
+            <title>2026-03-09 | 5:00pm: Bastrop Economic Development Corporation</title>
+            <link>https://bastrop-tx.municodemeetings.com/bc-bedc/page/bastrop-economic-development-corporation-23</link>
+            <description>Full Schedule: 5:00pm</description>
+            <guid isPermaLink="false">https://bastrop-tx.municodemeetings.com/bc-bedc/page/bastrop-economic-development-corporation-23</guid>
+        </item>
+        <item>
+            <title>2026-03-05 | 5:30pm: Parks and Recreation / Public Tree Advisory Board</title>
+            <link>https://bastrop-tx.municodemeetings.com/bc-ppt/page/parks-and-recreation-public-tree-advisory-board-20</link>
+            <description>Full Schedule: 5:30pm</description>
+            <guid isPermaLink="false">https://bastrop-tx.municodemeetings.com/bc-ppt/page/parks-and-recreation-public-tree-advisory-board-20</guid>
+        </item>
+        <item>
+            <title>2026-03-04 | 5:30pm: Fairview Cemetery Advisory Board</title>
+            <link>https://bastrop-tx.municodemeetings.com/bc-fcab/page/fairview-cemetery-advisory-board-23</link>
+            <description>Full Schedule: 5:30pm</description>
+            <guid isPermaLink="false">https://bastrop-tx.municodemeetings.com/bc-fcab/page/fairview-cemetery-advisory-board-23</guid>
+        </item>
+    </channel>
+</rss>
